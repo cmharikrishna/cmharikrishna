@@ -5,7 +5,7 @@ preparation, execution, and bug reporting. Skilled in defect tracking and test c
 management using Azure DevOps and JIRA. Strong collaboration with Business
 Analysts, Product Owners, Managers, and Developers. Experience in Scrum
 methodologies. Knowledgeable in Microsoft SQL Server and API testing with
-Postman. Excellent communication, analytical, and problem-solving skills.
+Postman. Excellent communication, analytical, and problem-solving skills. 
 
 
 <!---
